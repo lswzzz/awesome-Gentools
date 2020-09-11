@@ -1,4 +1,4 @@
-# awesome-no-Gentools
+# awesome-Gentools
 
 ### Music
 - [Computoser](http://computoser.com/)
