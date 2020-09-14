@@ -16,4 +16,6 @@
 - [Beatroot](https://recursegames.itch.io/beatroot)
 - [Taumidi Generator](https://juanmendoza.itch.io/tau-gen)
 - [Midi Madness](https://midimadnesssoftware.com/midi-madness-3)  Not Free
-- [Nodal Music](https://nodalmusic.com/)
+- [Nodal Music](https://nodalmusic.com/) Not Free
+- [Melodya](http://www.musicdevelopments.com/melodya.html)
+
