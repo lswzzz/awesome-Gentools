@@ -10,3 +10,4 @@
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/)
+- [Ecrett Music](https://ecrettmusic.com}
