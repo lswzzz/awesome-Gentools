@@ -14,3 +14,4 @@
 - [Wavebots Editor](https://krasse.itch.io/wavebots-editor)
 - [MusicGen](https://fregs-games.itch.io/musicgen)
 - [Beatroot](https://recursegames.itch.io/beatroot)
+- [Taumidi Generator](https://juanmendoza.itch.io/tau-gen)
