@@ -1,6 +1,6 @@
 # awesome-Gentools
 
-### Music
+### Music Generators
 - [Computoser](http://computoser.com/)
 - [Fake Music Generator](https://www.fakemusicgenerator.com/)
 - [Wolfram Tone Generator](https://tones.wolfram.com)
@@ -11,3 +11,4 @@
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/)
 - [Ecrett Music](https://ecrettmusic.com)
+- [Wavebots Editor](https://krasse.itch.io/wavebots-editor)
