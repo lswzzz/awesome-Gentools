@@ -12,3 +12,4 @@
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/)
 - [Ecrett Music](https://ecrettmusic.com)
 - [Wavebots Editor](https://krasse.itch.io/wavebots-editor)
+- [MusicGen](https://fregs-games.itch.io/musicgen)
