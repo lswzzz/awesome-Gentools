@@ -21,4 +21,4 @@
 - [OAML](https://marcelofernandezmusic.itch.io/oaml)
 - [Melody Sauce](https://www.evabeat.com/) Not Free
 - [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) Not Free
-
+- [Magenta](https://magenta.tensorflow.org/)
