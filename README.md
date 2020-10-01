@@ -24,4 +24,5 @@
 - [Magenta](https://magenta.tensorflow.org/)
 
 ### Art Generators
-Processing
+[Open Processing](https://www.openprocessing.org/)
+[Nightcafe](https://creator.nightcafe.studio/)
