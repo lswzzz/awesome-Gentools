@@ -15,12 +15,12 @@
 - [MusicGen](https://fregs-games.itch.io/musicgen)
 - [Beatroot](https://recursegames.itch.io/beatroot)
 - [Taumidi Generator](https://juanmendoza.itch.io/tau-gen)
-- [Midi Madness](https://midimadnesssoftware.com/midi-madness-3)  Not Free
-- [Nodal Music](https://nodalmusic.com/) Not Free
-- [Melodya](http://www.musicdevelopments.com/melodya.html) Not Free
+- [Midi Madness](https://midimadnesssoftware.com/midi-madness-3) 
+- [Nodal Music](https://nodalmusic.com/) 
+- [Melodya](http://www.musicdevelopments.com/melodya.html) 
 - [OAML](https://marcelofernandezmusic.itch.io/oaml)
-- [Melody Sauce](https://www.evabeat.com/) Not Free
-- [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) Not Free
+- [Melody Sauce](https://www.evabeat.com/) 
+- [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) 
 - [Magenta](https://magenta.tensorflow.org/)
 - [Treble Maker](http://treblemaker.ai/)
 
