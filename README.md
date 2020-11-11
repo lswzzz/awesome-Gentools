@@ -25,6 +25,7 @@
 - [Treble Maker](http://treblemaker.ai/)
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
 - [Wotja](https://intermorphic.com/wotja/)
+- [Amadeus Code](https://amadeuscode.com/top)
 
 ### Art Generators
 - [Open Processing](https://www.openprocessing.org/)
