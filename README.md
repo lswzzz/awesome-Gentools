@@ -24,6 +24,7 @@
 - [Magenta](https://magenta.tensorflow.org/)
 - [Treble Maker](http://treblemaker.ai/)
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
+- [Wotja](https://intermorphic.com/wotja/)
 
 ### Art Generators
 - [Open Processing](https://www.openprocessing.org/)
