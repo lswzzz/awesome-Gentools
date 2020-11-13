@@ -28,6 +28,7 @@
 - [Amadeus Code](https://amadeuscode.com/top)
 - [Impro](https://www.musi-co.com/apps)
 - [Amper](https://www.ampermusic.com/)
+- [Elias Studio](https://www.eliassoftware.com/products/)
 
 ### Art Generators
 - [Open Processing](https://www.openprocessing.org/)
