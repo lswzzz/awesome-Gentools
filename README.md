@@ -26,6 +26,7 @@
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
 - [Wotja](https://intermorphic.com/wotja/)
 - [Amadeus Code](https://amadeuscode.com/top)
+- [Impro](https://www.musi-co.com/apps)
 
 ### Art Generators
 - [Open Processing](https://www.openprocessing.org/)
