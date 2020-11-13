@@ -27,6 +27,7 @@
 - [Wotja](https://intermorphic.com/wotja/)
 - [Amadeus Code](https://amadeuscode.com/top)
 - [Impro](https://www.musi-co.com/apps)
+- [Amper](https://www.ampermusic.com/)
 
 ### Art Generators
 - [Open Processing](https://www.openprocessing.org/)
