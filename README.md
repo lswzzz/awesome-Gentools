@@ -40,7 +40,7 @@
 - [P5JS](https://p5js.org/)
 - [Ronin](https://hundredrabbits.itch.io/ronin)
 - [AIBM](https://wiskered.itch.io/ai-building-modeling)
--
+- [Filter JS](https://comigo.itch.io/filterjs)
 -
 
 ### Readme Generator
