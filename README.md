@@ -1,6 +1,15 @@
-# Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-### Music Generators
+### Contents
+
+* [Music_Generators](#music_generators)
+* [Art_Generators](#art_generators)
+* [Readme_Generators](#readme_generators)
+
+
+
+
+## Music_Generators
 - [Computoser](http://computoser.com/)
 - [Fake Music Generator](https://www.fakemusicgenerator.com/)
 - [Wolfram Tone Generator](https://tones.wolfram.com)
@@ -30,7 +39,7 @@
 - [Amper](https://www.ampermusic.com/)
 - [Elias Studio](https://www.eliassoftware.com/products/)
 
-### Art Generators
+## Art_Generators
 - [Open Processing](https://www.openprocessing.org/)
 - [Nightcafe](https://creator.nightcafe.studio/)
 - [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html)
@@ -43,7 +52,7 @@
 - [Filter JS](https://comigo.itch.io/filterjs)
 -
 
-### Readme Generator
+## Readme_Generators
 - [1](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [2](https://github.com/andreasbm/readme)
 
