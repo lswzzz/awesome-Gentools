@@ -14,8 +14,8 @@
 
 
 ## Music_Generators
-- [Computoser](http://computoser.com/)
-- [Fake Music Generator](https://www.fakemusicgenerator.com/)
+- [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+- [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by Corban Works, LLC, the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art.
 - [Wolfram Tone Generator](https://tones.wolfram.com)
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html)
 - [Random Music Generators](https://pernyblom.github.io/abundant-music/index.html)
