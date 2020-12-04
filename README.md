@@ -47,6 +47,7 @@ creating melodies, chord progressions and sequences.![icon](https://github.com/l
 - [Amper](https://www.ampermusic.com/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Elias Studio](https://www.eliassoftware.com/products/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [VCV Rack](https://vcvrack.com/)
 
 ## Art_Generators
 - [Open Processing](https://www.openprocessing.org/)
