@@ -1,4 +1,4 @@
-# Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/33nano/awesome-Gentools/pulls)
 
 >A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness
 
