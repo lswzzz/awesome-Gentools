@@ -18,8 +18,8 @@
 - [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 
 - [Wolfram Tone Generator](https://tones.wolfram.com) -
 An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.
-- [Abundant Music](https://pernyblom.github.io/abundant-music/index.html)
-- [Random Music Generators](https://pernyblom.github.io/abundant-music/index.html)
+- [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.
+- [Random Music Generators](https://random-music-generators.herokuapp.com/melody)
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
