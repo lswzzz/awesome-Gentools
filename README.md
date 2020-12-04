@@ -21,7 +21,8 @@ An Experiment in a New Kind of Music — made possible by the Wolfram Programmin
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.
 - [Random Music Generators](https://random-music-generators.herokuapp.com/melody) - Random chord, melody, and rhythm generators with MIDI output created by Dave Cohen aka "scraggo" on Github. All the tracks generated are licensed under the Creative Common Zero License.
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
+- [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/) The Melisma Stochastic Melody Generator is a computer program that
+generates original melodies using stochastic (i.e. partly random)processes. From this site, you can generate a melody using parameters of your own choosing; the melody will be returned to you in the formof a midifile, which will then be played on your computer. All tracks generated are licensed under the Creative Commons Zero License.
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/) - One of the best AI powered music generators. A subscription is required for any sort of commercial usage. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Ecrett Music](https://ecrettmusic.com)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
