@@ -31,7 +31,8 @@ result varies from chaos to really interesting unconventional melodies. All trac
 - [MusicGen](https://fregs-games.itch.io/musicgen) - MusicGen is a random music generator. You can use it to create music for your games or any other project. It is currently on development but you can download and try it.
 - [Beatroot](https://recursegames.itch.io/beatroot) - A procedural music generator, submitted for PROCJAM 2017 (Game Jam on Itch).
 - [Taumidi Generator](https://juanmendoza.itch.io/tau-gen) - Math based MIDI music generator writed in python.
-- [Midi Madness](https://midimadnesssoftware.com/midi-madness-3) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Midi Madness](https://midimadnesssoftware.com/midi-madness-3) - An algorithmic music generator that can create an unlimited number of melodies using a simple set of probability  weightings. Simply set some parameters, such as a chord sequence and some MIDI controllers, and let Midi Madness go wild 
+creating melodies, chord progressions and sequences.![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nodal Music](https://nodalmusic.com/) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melodya](http://www.musicdevelopments.com/melodya.html)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg) 
 - [OAML](https://marcelofernandezmusic.itch.io/oaml)
