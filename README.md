@@ -23,7 +23,7 @@ An Experiment in a New Kind of Music — made possible by the Wolfram Programmin
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
-- [Artificial Intelligence Virtual Artist](https://aiva.ai/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Artificial Intelligence Virtual Artist](https://aiva.ai/) - One of the best AI powered music generators. A subscription is required for any sort of commercial usage. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Ecrett Music](https://ecrettmusic.com)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Wavebots Editor](https://krasse.itch.io/wavebots-editor)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [MusicGen](https://fregs-games.itch.io/musicgen)
