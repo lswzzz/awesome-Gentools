@@ -1,6 +1,6 @@
 # Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
->A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and eliminate laziness
+>A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness
 
 ### Contents
 
@@ -17,7 +17,7 @@
 - [Wolfram Tone Generator](https://tones.wolfram.com)
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html)
 - [Random Music Generators](https://pernyblom.github.io/abundant-music/index.html)
-- [Melobytes](https://melobytes.com/en/)
+- [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
@@ -30,16 +30,16 @@
 - [Nodal Music](https://nodalmusic.com/) 
 - [Melodya](http://www.musicdevelopments.com/melodya.html) 
 - [OAML](https://marcelofernandezmusic.itch.io/oaml)
-- [Melody Sauce](https://www.evabeat.com/) 
+- [Melody Sauce](https://www.evabeat.com/) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Magenta](https://magenta.tensorflow.org/)
 - [Treble Maker](http://treblemaker.ai/)
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
 - [Wotja](https://intermorphic.com/wotja/)
 - [Amadeus Code](https://amadeuscode.com/top)
-- [Impro](https://www.musi-co.com/apps)
+- [Impro](https://www.musi-co.com/apps)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Amper](https://www.ampermusic.com/)
-- [Elias Studio](https://www.eliassoftware.com/products/)
+- [Elias Studio](https://www.eliassoftware.com/products/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 
 ## Art_Generators
