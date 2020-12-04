@@ -2,11 +2,13 @@
 
 >A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness
 
-### Contents
+### Table of Contents
 
 * [Music_Generators](#music_generators)
 * [Art_Generators](#art_generators)
 * [Readme_Generators](#readme_generators)
+* [Title_Generators](#title_generators)
+*
 
 
 
@@ -58,6 +60,10 @@
 ## Readme_Generators
 - [1](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [2](https://github.com/andreasbm/readme)
+
+## Title_Generators
+
+
 
 ## License
 
