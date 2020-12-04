@@ -15,8 +15,9 @@
 
 ## Music_Generators
 - [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-- [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Common Zero License. 
-- [Wolfram Tone Generator](https://tones.wolfram.com)
+- [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 
+- [Wolfram Tone Generator](https://tones.wolfram.com) -
+An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html)
 - [Random Music Generators](https://pernyblom.github.io/abundant-music/index.html)
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
