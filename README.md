@@ -19,7 +19,7 @@
 - [Wolfram Tone Generator](https://tones.wolfram.com) -
 An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.
-- [Random Music Generators](https://random-music-generators.herokuapp.com/melody)
+- [Random Music Generators](https://random-music-generators.herokuapp.com/melody) - Random chord, melody, and rhythm generators with MIDI output created by Dave Cohen aka "scraggo" on Github. All the tracks generated are licensed under the Creative Common Zero License.
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/)
 - [Langorhythm](https://kickthejetengine.com/langorhythm/)
