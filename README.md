@@ -32,12 +32,12 @@ result varies from chaos to really interesting unconventional melodies. All trac
 - [Beatroot](https://recursegames.itch.io/beatroot) - A procedural music generator, submitted for PROCJAM 2017 (Game Jam on Itch).
 - [Taumidi Generator](https://juanmendoza.itch.io/tau-gen) - Math based MIDI music generator writed in python.
 - [Midi Madness](https://midimadnesssoftware.com/midi-madness-3) - An algorithmic music generator that can create an unlimited number of melodies using a simple set of probability  weightings. Simply set some parameters, such as a chord sequence and some MIDI controllers, and let Midi Madness go wild 
-creating melodies, chord progressions and sequences.![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Nodal Music](https://nodalmusic.com/)- Nodal is generative software for composing music, interactive real-time improvisation, and a musical tool for experimentation and play. Unlike other music generators you use nodes (similar to VCV Rack). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Melodya](http://www.musicdevelopments.com/melodya.html) - Melodya is an advanced melody generator and motive editor plugin. One of the unique features of Melodya is its ability to mutate/create variations of exisiting melodies. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg) 
-- [OAML](https://marcelofernandezmusic.itch.io/oaml)
-- [Melody Sauce](https://www.evabeat.com/) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+creating melodies, chord progressions and sequences(Perpetual License).![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Nodal Music](https://nodalmusic.com/)- Nodal is generative software for composing music, interactive real-time improvisation, and a musical tool for experimentation and play. Unlike other music generators you use nodes (similar to VCV Rack)(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Melodya](http://www.musicdevelopments.com/melodya.html) - Melodya is an advanced melody generator and motive editor plugin. One of the unique features of Melodya is its ability to mutate/create variations of exisiting melodies(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg) 
+- [OAML](https://marcelofernandezmusic.itch.io/oaml) - A music library that can morph existing music into a more dynamic and adaptive style for video games.
+- [Melody Sauce](https://www.evabeat.com/) - An algorithm powered musical melody generator (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) - A complete suite of 4 AI powered tools to generate music (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Magenta](https://magenta.tensorflow.org/)
 - [Treble Maker](http://treblemaker.ai/)
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
