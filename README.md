@@ -23,7 +23,8 @@ An Experiment in a New Kind of Music — made possible by the Wolfram Programmin
 - [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/) The Melisma Stochastic Melody Generator is a computer program that
 generates original melodies using stochastic (i.e. partly random)processes. From this site, you can generate a melody using parameters of your own choosing; the melody will be returned to you in the formof a midifile, which will then be played on your computer. All tracks generated are licensed under the Creative Commons Zero License.
-- [Langorhythm](https://kickthejetengine.com/langorhythm/)
+- [Langorhythm](https://kickthejetengine.com/langorhythm/) - A music generator that turns text into music. You can use it for inspiration for melodies. The 
+result varies from chaos to really interesting unconventional melodies. All tracks generated are licensed under the Creative Commons Zero License.
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/) - One of the best AI powered music generators. A subscription is required for any sort of commercial usage. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Ecrett Music](https://ecrettmusic.com)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Wavebots Editor](https://krasse.itch.io/wavebots-editor)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
