@@ -8,7 +8,7 @@
 * [Art_Generators](#art_generators)
 * [Miscellaneous_Generators](#miscellaneous_generators)
 * [Title_Generators](#title_generators)
-*
+* [Face_Generators](#face_generators)
 
 
 
@@ -53,7 +53,12 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Automatune](https://www.maxlaumeister.com/automatune/)
 - [ChordChord](https://chordchord.com/)
 - [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License.
-      
+- [Soundraw](https://soundraw.io/)
+- [AlgoTunes](https://www.algotunes.com/generate-music/)
+- [Aural Fractals](https://www.auralfractals.net/)
+- [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
+- [AlgorhythmRadio](https://algorythmradio.com/)
+
 
 ## Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
@@ -68,14 +73,14 @@ educators, beginners, and anyone else!
 - [AIBM](https://wiskered.itch.io/ai-building-modeling) - AIBM (AI Building Modeling)  - is artificial intelligence (AI), which is able to generate building models according to specified parameters, at this stage - based on a parallelepiped. It is also possible to design the interior of the building. AIBM is portable and works without installation. The procedural generation of AIBM is highly optimized. As a result, the consumption of computational resources is reduced and the 
 speed of model building is greatly increased.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
--
+- [DeepDream Generator](https://deepdreamgenerator.com/)
 
 ## Miscellaneous_Generators
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies. 
 
 ## Title_Generators
 
-
+## Face_Generators
 
 ## License
 
