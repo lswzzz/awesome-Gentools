@@ -50,6 +50,9 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon) - 1BITDRAGON is a music creation software super easy to use, simple, instant and fun.Also includes a Euclidean Rhythm Generator that generates natural-sounding rhythmical patterns(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [VCV Rack](https://vcvrack.com/) -VCV Rack is an open-source virtual modular synthesizer. This is the ultimate form of generative sounds and music that does not rely on AI, but devout human curiosity and experimentation. The community is very large, the documentation is impeccable and its just outright fun to use.
 - [Nsynth Super](https://nsynthsuper.withgoogle.com/) - A neural network synthesizer that enables musicians the ability to explore more than 100,000 sounds generated with the NSynth algorithm.
+- [Automatune](https://www.maxlaumeister.com/automatune/)
+- [ChordChord](https://chordchord.com/)
+- [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License.
       
 
 ## Art_Generators
