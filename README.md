@@ -6,7 +6,7 @@
 
 * [Music_Generators](#music_generators)
 * [Art_Generators](#art_generators)
-* [Readme_Generators](#readme_generators)
+* [Miscellaneous_Generators](#miscellaneous_generators)
 * [Title_Generators](#title_generators)
 *
 
@@ -67,9 +67,8 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
 -
 
-## Readme_Generators
-- [1](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [2](https://github.com/andreasbm/readme)
+## Miscellaneous_Generators
+- [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies. 
 
 ## Title_Generators
 
