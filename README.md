@@ -44,11 +44,13 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Wotja](https://intermorphic.com/wotja/) Wotja is an awesome 'generative music' creator/composer, mixer, lab & player system.It is regularly updated and has got a rich history. It can generate background music, ambient & melodic soundscapes, lush drone mixes, reflective text-to-music, MIDI & ideas e.g. for personal enjoyment or  for use in videos, podcasts & presentations, on CDs & DVDs etc. as well as in live installations (Perpetual License + Subscription).
 ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Amadeus Code](https://amadeuscode.com/top) An AI Powered music generator. A subscriptions is required to use tracks for any commercial usage (You can only download wav files, no midi). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Impro](https://www.musi-co.com/apps)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Amper](https://www.ampermusic.com/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Elias Studio](https://www.eliassoftware.com/products/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Impro](https://www.musi-co.com/apps)- An AI powered music generator. No implied license: upon downloading Impro,Musico grants and you receive no license under any Musico Intellectual Property (I have no idea what the hell that means, so users beware!) .![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Amper](https://www.ampermusic.com/) An AI powered music generator (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Elias Studio](https://www.eliassoftware.com/products/) - The Elias Studio is game composer’s tool for intuitively arranging adaptive music scores with unrivaled ease of use. You arrange your pre-recorded music files and decide how the music will transition in the game. With this tool, the composer can have complete control of the game soundtrack, and make everything ready for the game developer.![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon) - 1BITDRAGON is a music creation software super easy to use, simple, instant and fun.Also includes a Euclidean Rhythm Generator that generates natural-sounding rhythmical patterns(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [VCV Rack](https://vcvrack.com/)
+- [Nsynth Super](https://nsynthsuper.withgoogle.com/) - A neural network synthesizer that enables musicians the ability to explore more than 100,000 sounds generated with the NSynth algorithm.
+      
 
 ## Art_Generators
 - [Open Processing](https://www.openprocessing.org/)
