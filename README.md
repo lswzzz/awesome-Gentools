@@ -48,7 +48,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Amper](https://www.ampermusic.com/) An AI powered music generator (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Elias Studio](https://www.eliassoftware.com/products/) - The Elias Studio is game composer’s tool for intuitively arranging adaptive music scores with unrivaled ease of use. You arrange your pre-recorded music files and decide how the music will transition in the game. With this tool, the composer can have complete control of the game soundtrack, and make everything ready for the game developer.![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon) - 1BITDRAGON is a music creation software super easy to use, simple, instant and fun.Also includes a Euclidean Rhythm Generator that generates natural-sounding rhythmical patterns(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [VCV Rack](https://vcvrack.com/)
+- [VCV Rack](https://vcvrack.com/) -VCV Rack is an open-source virtual modular synthesizer. This is the ultimate form of generative sounds and music that does not rely on AI, but devout human curiosity and experimentation. The community is very large, the documentation is impeccable and its just outright fun to use.
 - [Nsynth Super](https://nsynthsuper.withgoogle.com/) - A neural network synthesizer that enables musicians the ability to explore more than 100,000 sounds generated with the NSynth algorithm.
       
 
