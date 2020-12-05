@@ -53,7 +53,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
       
 
 ## Art_Generators
-- [Open Processing](https://www.openprocessing.org/)  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app. It uses a technique called neural style transfer to re-imagine your images in any style you choose. They also have simple editing tools - not offered by other AI art generators or style-transfer apps - to help you turn your photos into masterpieces. All the creations you make are licensed under the Creative Commons Zero License, with the assumption that you hold the necessary rights to the images you use. 
 - [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator.
 - [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/) - Chromata is a small tool written in JavaScript which can turn any image into a unique, animated artwork.Path finders are seeded on a canvas and independently trace their own path through the image, reading the colour data of each pixel and altering their course based on a set of configurable rules.
