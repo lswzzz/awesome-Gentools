@@ -20,7 +20,7 @@
 An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.
 - [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.
 - [Random Music Generators](https://random-music-generators.herokuapp.com/melody) - Random chord, melody, and rhythm generators with MIDI output created by Dave Cohen aka "scraggo" on Github. All the tracks generated are licensed under the Creative Common Zero License.
-- [Melobytes](https://melobytes.com/en/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Melobytes](https://melobytes.com/en/) - A collection of various AI & Algorthmic generative music tools from image to music and more. A subscription is required for your generated tracks to be used for any commercial purposes.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/) The Melisma Stochastic Melody Generator is a computer program that
 generates original melodies using stochastic (i.e. partly random)processes. From this site, you can generate a melody using parameters of your own choosing; the melody will be returned to you in the formof a midifile, which will then be played on your computer. All tracks generated are licensed under the Creative Commons Zero License.
 - [Langorhythm](https://kickthejetengine.com/langorhythm/) - A music generator that turns text into music. You can use it for inspiration for melodies. The 
@@ -38,7 +38,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [OAML](https://marcelofernandezmusic.itch.io/oaml) - A music library that can morph existing music into a more dynamic and adaptive style for video games.
 - [Melody Sauce](https://www.evabeat.com/) - An algorithm powered musical melody generator (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) - A complete suite of 4 AI powered tools to generate music (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [Magenta](https://magenta.tensorflow.org/)
+- [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process. This tools generates both art and music. All the tracks generated are licensed under the Creative Commons Zero License.
 - [Treble Maker](http://treblemaker.ai/)
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#)
 - [Wotja](https://intermorphic.com/wotja/)![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
