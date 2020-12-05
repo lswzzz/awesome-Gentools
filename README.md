@@ -1,6 +1,6 @@
 # Awesome-Gentools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/33nano/awesome-Gentools/pulls)
 
->A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness
+>A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness. Overall its all about having fun with the creation process, experiment and free your mind.
 
 ### Table of Contents
 
@@ -53,16 +53,18 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
       
 
 ## Art_Generators
-- [Open Processing](https://www.openprocessing.org/)
-- [Nightcafe](https://creator.nightcafe.studio/)
-- [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html)
-- [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/)
-- [Synthetik](https://synthetik.com/)
-- [Nannou](https://nannou.cc/)
-- [P5JS](https://p5js.org/)
-- [Ronin](https://hundredrabbits.itch.io/ronin)
-- [AIBM](https://wiskered.itch.io/ai-building-modeling)
-- [Filter JS](https://comigo.itch.io/filterjs)
+- [Open Processing](https://www.openprocessing.org/)  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app. It uses a technique called neural style transfer to re-imagine your images in any style you choose. They also have simple editing tools - not offered by other AI art generators or style-transfer apps - to help you turn your photos into masterpieces. All the creations you make are licensed under the Creative Commons Zero License, with the assumption that you hold the necessary rights to the images you use. 
+- [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator.
+- [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/) - Chromata is a small tool written in JavaScript which can turn any image into a unique, animated artwork.Path finders are seeded on a canvas and independently trace their own path through the image, reading the colour data of each pixel and altering their course based on a set of configurable rules.
+- [Synthetik](https://synthetik.com/) - A set of various generative art tools that can create abstract art, animations, paintings, drawings, mosaics , effects and more.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Nannou](https://nannou.cc/) - An open-source creative-coding framework for Rust
+- [P5JS](https://p5js.org/) -p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, 
+educators, beginners, and anyone else!
+- [Ronin](https://hundredrabbits.itch.io/ronin) -Ronin is a procedural graphics tool designed to automate simple graphical tasks, like resizing, cropping, coloring, and generating algorithmic images.
+- [AIBM](https://wiskered.itch.io/ai-building-modeling) - AIBM (AI Building Modeling)  - is artificial intelligence (AI), which is able to generate building models according to specified parameters, at this stage - based on a parallelepiped. It is also possible to design the interior of the building. AIBM is portable and works without installation. The procedural generation of AIBM is highly optimized. As a result, the consumption of computational resources is reduced and the 
+speed of model building is greatly increased.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
+- [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
 -
 
 ## Readme_Generators
