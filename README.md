@@ -93,7 +93,8 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 -
 
 ### Videos
-- [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU)
+- [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU) - Its all just waves
+- [I Am AI](https://www.youtube.com/watch?v=Emidxpkyk6o) - A soundtrack composed by Artificial Intelligence Virtual Artist (AIVA)
 
 ### Articles
 
