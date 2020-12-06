@@ -18,17 +18,17 @@
 
 
 ## Music_Generators
-- [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
-- [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 
+- [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 🆓
+- [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 🆓
 - [Wolfram Tone Generator](https://tones.wolfram.com) -
-An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.
-- [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.
-- [Random Music Generators](https://random-music-generators.herokuapp.com/melody) - Random chord, melody, and rhythm generators with MIDI output created by Dave Cohen aka "scraggo" on Github. All the tracks generated are licensed under the Creative Common Zero License.
+An Experiment in a New Kind of Music — made possible by the Wolfram Programming Language and [A New Kind of Science](https://www.wolframscience.com/nks/). All the tracks generated are licensed under the Creative Commons Zero License.🆓
+- [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) -Abundant Music is a procedural music generator that doesn't require any musical knowledge to generate music. You can generate new songs by pressing a single button. All tracks generated are licensed under the Creative Commons Zero License.🆓
+- [Random Music Generators](https://random-music-generators.herokuapp.com/melody) - Random chord, melody, and rhythm generators with MIDI output created by Dave Cohen aka "scraggo" on Github. All the tracks generated are licensed under the Creative Common Zero License.🆓
 - [Melobytes](https://melobytes.com/en/) - A collection of various AI & Algorthmic generative music tools from image to music and more. A subscription is required for your generated tracks to be used for any commercial purposes.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Melisma Stochastic Melody Generator](https://www.link.cs.cmu.edu/melody-generator/) The Melisma Stochastic Melody Generator is a computer program that
-generates original melodies using stochastic (i.e. partly random)processes. From this site, you can generate a melody using parameters of your own choosing; the melody will be returned to you in the formof a midifile, which will then be played on your computer. All tracks generated are licensed under the Creative Commons Zero License.
+generates original melodies using stochastic (i.e. partly random)processes. From this site, you can generate a melody using parameters of your own choosing; the melody will be returned to you in the formof a midifile, which will then be played on your computer. All tracks generated are licensed under the Creative Commons Zero License.🆓
 - [Langorhythm](https://kickthejetengine.com/langorhythm/) - A music generator that turns text into music. You can use it for inspiration for melodies. The 
-result varies from chaos to really interesting unconventional melodies. All tracks generated are licensed under the Creative Commons Zero License.
+result varies from chaos to really interesting unconventional melodies. All tracks generated are licensed under the Creative Commons Zero License.🆓
 - [Artificial Intelligence Virtual Artist](https://aiva.ai/) - One of the best AI powered music generators. A subscription is required for any sort of commercial usage. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Ecrett Music](https://ecrettmusic.com) - AI Powered music generator strictyl for content creators (game/video/podcast), not musicians. A subscription is required for any commercial usage. ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Wavebots Editor](https://krasse.itch.io/wavebots-editor) A procedural music and sound effect generator by the same creator of Abundant Music (Perpetual License) ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
@@ -52,11 +52,11 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Amper](https://www.ampermusic.com/) An AI powered music generator (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Elias Studio](https://www.eliassoftware.com/products/) - The Elias Studio is game composer’s tool for intuitively arranging adaptive music scores with unrivaled ease of use. You arrange your pre-recorded music files and decide how the music will transition in the game. With this tool, the composer can have complete control of the game soundtrack, and make everything ready for the game developer.![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [1BITDRAGON](https://1bitdragon.itch.io/1bitdragon) - 1BITDRAGON is a music creation software super easy to use, simple, instant and fun.Also includes a Euclidean Rhythm Generator that generates natural-sounding rhythmical patterns(Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
-- [VCV Rack](https://vcvrack.com/) -VCV Rack is an open-source virtual modular synthesizer. This is the ultimate form of generative sounds and music that does not rely on AI, but devout human curiosity and experimentation. The community is very large, the documentation is impeccable and its just outright fun to use.
+- [VCV Rack](https://vcvrack.com/) -VCV Rack is an open-source virtual modular synthesizer. This is the ultimate form of generative sounds and music that does not rely on AI, but devout human curiosity and experimentation. The community is very large, the documentation is impeccable and its just outright fun to use.🆓
 - [Nsynth Super](https://nsynthsuper.withgoogle.com/) - A neural network synthesizer that enables musicians the ability to explore more than 100,000 sounds generated with the NSynth algorithm.
 - [Automatune](https://www.maxlaumeister.com/automatune/)
 - [ChordChord](https://chordchord.com/)
-- [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License.
+- [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License. 🆓
 - [Soundraw](https://soundraw.io/)
 - [AlgoTunes](https://www.algotunes.com/generate-music/)
 - [Aural Fractals](https://www.auralfractals.net/)
@@ -67,27 +67,27 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 ## Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app. It uses a technique called neural style transfer to re-imagine your images in any style you choose. They also have simple editing tools - not offered by other AI art generators or style-transfer apps - to help you turn your photos into masterpieces. All the creations you make are licensed under the Creative Commons Zero License, with the assumption that you hold the necessary rights to the images you use. 
-- [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator.
-- [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/) - Chromata is a small tool written in JavaScript which can turn any image into a unique, animated artwork.Path finders are seeded on a canvas and independently trace their own path through the image, reading the colour data of each pixel and altering their course based on a set of configurable rules.
+- [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator. 🆓
+- [Chromata](https://www.michaelbromley.co.uk/experiments/chromata/) - Chromata is a small tool written in JavaScript which can turn any image into a unique, animated artwork.Path finders are seeded on a canvas and independently trace their own path through the image, reading the colour data of each pixel and altering their course based on a set of configurable rules. 🆓
 - [Synthetik](https://synthetik.com/) - A set of various generative art tools that can create abstract art, animations, paintings, drawings, mosaics , effects and more.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nannou](https://nannou.cc/) - An open-source creative-coding framework for Rust
 - [P5JS](https://p5js.org/) -p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, 
 educators, beginners, and anyone else!
-- [Ronin](https://hundredrabbits.itch.io/ronin) -Ronin is a procedural graphics tool designed to automate simple graphical tasks, like resizing, cropping, coloring, and generating algorithmic images.
+- [Ronin](https://hundredrabbits.itch.io/ronin) -Ronin is a procedural graphics tool designed to automate simple graphical tasks, like resizing, cropping, coloring, and generating algorithmic images. 🆓
 - [AIBM](https://wiskered.itch.io/ai-building-modeling) - AIBM (AI Building Modeling)  - is artificial intelligence (AI), which is able to generate building models according to specified parameters, at this stage - based on a parallelepiped. It is also possible to design the interior of the building. AIBM is portable and works without installation. The procedural generation of AIBM is highly optimized. As a result, the consumption of computational resources is reduced and the 
 speed of model building is greatly increased.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
 - [DeepDream Generator](https://deepdreamgenerator.com/)
 
 ## Miscellaneous_Generators
-- [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies. 
+- [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
 
 ## Title_Generators
 
 ## Face_Generators
-- [Bored Humans](https://boredhumans.com/faces.php)
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-- [Generated Faces](https://generated.photos/faces)
+- [Bored Humans](https://boredhumans.com/faces.php) 🆓
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) 🆓
+- [Generated Faces](https://generated.photos/faces) 🆓
 -
 -
 -
