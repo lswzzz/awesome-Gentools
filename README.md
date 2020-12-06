@@ -93,6 +93,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 -
 
 ### Videos
+- [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU)
 
 ### Articles
 
