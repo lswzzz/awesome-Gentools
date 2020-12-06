@@ -10,6 +10,10 @@
 * [Title_Generators](#title_generators)
 * [Face_Generators](#face_generators)
 
+### Resources
+* [Videos](#videos)
+* [Articles](#articles)
+
 
 
 
@@ -87,6 +91,14 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 -
 -
 -
+
+## Videos
+
+## Articles
+
+## Contribute
+
+Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/33nano/awesome-Gentools/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
