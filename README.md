@@ -83,6 +83,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
 
 ### Title_Generators
+- [Namelix](https://namelix.com/) - A business name generator
 
 ### Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓
