@@ -2,7 +2,7 @@
 
 >A curated list of Awesome generative tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness. Overall its all about having fun with the creation process, experiment and free your mind.
 
-### Table of Contents
+## Table of Contents
 
 * [Music_Generators](#music_generators)
 * [Art_Generators](#art_generators)
@@ -10,14 +10,14 @@
 * [Title_Generators](#title_generators)
 * [Face_Generators](#face_generators)
 
-### Resources
+## Resources
 * [Videos](#videos)
 * [Articles](#articles)
 
 
 
 
-## Music_Generators
+### Music_Generators
 - [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 🆓
 - [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 🆓
 - [Wolfram Tone Generator](https://tones.wolfram.com) -
@@ -64,7 +64,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [AlgorhythmRadio](https://algorythmradio.com/)
 
 
-## Art_Generators
+### Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app. It uses a technique called neural style transfer to re-imagine your images in any style you choose. They also have simple editing tools - not offered by other AI art generators or style-transfer apps - to help you turn your photos into masterpieces. All the creations you make are licensed under the Creative Commons Zero License, with the assumption that you hold the necessary rights to the images you use. 
 - [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator. 🆓
@@ -79,12 +79,12 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
 - [DeepDream Generator](https://deepdreamgenerator.com/)
 
-## Miscellaneous_Generators
+### Miscellaneous_Generators
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
 
-## Title_Generators
+### Title_Generators
 
-## Face_Generators
+### Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) 🆓
 - [Generated Faces](https://generated.photos/faces) 🆓
@@ -92,9 +92,9 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 -
 -
 
-## Videos
+### Videos
 
-## Articles
+### Articles
 
 ## Contribute
 
