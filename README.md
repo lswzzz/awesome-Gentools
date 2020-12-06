@@ -83,7 +83,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 ## Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
--
+- [Generated Faces](https://generated.photos/faces)
 -
 -
 -
