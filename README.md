@@ -63,7 +63,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
 - [AlgorhythmRadio](https://algorythmradio.com/)
 - [Code FN42 Transition](https://www.codefn42.com/transition/index.html)
-
+- [Generative FM](https://generative.fm/)
 
 ### Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
