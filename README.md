@@ -62,6 +62,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Aural Fractals](https://www.auralfractals.net/)
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
 - [AlgorhythmRadio](https://algorythmradio.com/)
+- [Code FN42 Transition](https://www.codefn42.com/transition/index.html)
 
 
 ### Art_Generators
