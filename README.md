@@ -85,6 +85,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 
 ### Title_Generators
 - [Namelix](https://namelix.com/) - A business name generator
+- [Cool Generator](https://www.coolgenerator.com/) - A collection 0f 100+ name generators and other.
 
 ### Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓
