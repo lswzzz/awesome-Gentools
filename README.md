@@ -8,6 +8,7 @@
 * [Art_Generators](#art_generators)
 * [Miscellaneous_Generators](#miscellaneous_generators)
 * [Title_Generators](#title_generators)
+* [Idea_Generators](#idea_generators)
 * [Face_Generators](#face_generators)
 
 ## Resources
@@ -86,6 +87,9 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 ### Title_Generators
 - [Namelix](https://namelix.com/) - A business name generator
 - [Cool Generator](https://www.coolgenerator.com/) - A collection 0f 100+ name generators and other.
+
+### Idea_Generators
+- [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/)
 
 ### Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓
