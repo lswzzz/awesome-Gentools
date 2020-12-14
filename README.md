@@ -45,6 +45,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Orb Producer Suite](https://www.orb-composer.com/orb-producer-suite/) - A complete suite of 4 AI powered tools to generate music (Perpetual License). ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Magenta](https://magenta.tensorflow.org/) - An open source research project exploring the role of machine learning as a tool in the creative process. This tools generates both art and music. All the tracks generated are licensed under the Creative Commons Zero License.
 - [Treble Maker](http://treblemaker.ai/) - A procedural music generator that generates midi chords, arpeggios, basslines, beats & melodies. All the tracks generated are generated under the Creative Commons Zero License.
+- [ToneSpace](http://www.mucoder.net/en/tonespace/) 
 - [Sharp11](http://julianrosenblum.com/sharp11-client/#) - Sharp11 is a music theory multitool with a jazz focus.  
 - [Wotja](https://intermorphic.com/wotja/) Wotja is an awesome 'generative music' creator/composer, mixer, lab & player system.It is regularly updated and has got a rich history. It can generate background music, ambient & melodic soundscapes, lush drone mixes, reflective text-to-music, MIDI & ideas e.g. for personal enjoyment or  for use in videos, podcasts & presentations, on CDs & DVDs etc. as well as in live installations (Perpetual License + Subscription).
 ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
