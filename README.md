@@ -69,6 +69,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Generative FM](https://generative.fm/)
 - [Obscurium](https://sugar-bytes.de/obscurium)
 - [Notefull](https://trixelized.itch.io/noteful)
+- [Creaksbox](https://hidden-orchestra.itch.io/creaksbox)
 
 ### Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
