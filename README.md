@@ -57,7 +57,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [VCV Rack](https://vcvrack.com/) -VCV Rack is an open-source virtual modular synthesizer. This is the ultimate form of generative sounds and music that does not rely on AI, but devout human curiosity and experimentation. The community is very large, the documentation is impeccable and its just outright fun to use.🆓
 - [Nsynth Super](https://nsynthsuper.withgoogle.com/) - A neural network synthesizer that enables musicians the ability to explore more than 100,000 sounds generated with the NSynth algorithm.
 - [Automatune](https://www.maxlaumeister.com/automatune/) - An online procedural music generator
-- [ChordChord](https://chordchord.com/)
+- [ChordChord](https://chordchord.com/) - A subscription based online chord progression generator
 - [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License. 🆓
 - [Soundraw](https://soundraw.io/)
 - [Stochas Surge Synth](https://stochas.org/) <!-- This the github site https://github.com/surge-synthesizer/stochas -->
