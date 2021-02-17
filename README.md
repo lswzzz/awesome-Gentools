@@ -97,7 +97,8 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/)
 
 ### Face_Generators
-- [Bored Humans](https://boredhumans.com/faces.php) 🆓
+- [Bored Humans](https://boredhumans.com/faces.php) 🆓 - An AI powered face generator. AI was trained to create fake people, using a database of 70,000 of 
+photos of real humans. 
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) 🆓
 - [Generated Faces](https://generated.photos/faces) 🆓
 -
