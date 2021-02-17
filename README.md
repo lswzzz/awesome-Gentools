@@ -100,7 +100,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓 - An AI powered face generator. AI was trained to create fake people, using a database of 70,000 of 
 photos of real humans. 
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) 🆓 - An AI powered face generator that uitlizes the power of Generative Adversarial Networks.
-- [Generated Faces](https://generated.photos/faces) 🆓
+- [Generated Faces](https://generated.photos/faces) 🆓 - AI powered face generator with filter and selection parameters to generate the face you want as opposed to random.
 -
 -
 -
