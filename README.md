@@ -59,7 +59,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Automatune](https://www.maxlaumeister.com/automatune/) - An online procedural music generator
 - [ChordChord](https://chordchord.com/) - A subscription based online chord progression generator
 - [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License. 🆓
-- [Soundraw](https://soundraw.io/)
+- [Soundraw](https://soundraw.io/) - Subscription based AI music generator
 - [Stochas Surge Synth](https://stochas.org/) <!-- This the github site https://github.com/surge-synthesizer/stochas -->
 - [AlgoTunes](https://www.algotunes.com/generate-music/)
 - [Aural Fractals](https://www.auralfractals.net/)
