@@ -61,7 +61,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Hookgen](https://hookgen.com) - HookGen is a web app that creates a brand new original song using Artificial Intelligence. All the tracks generated are licensed under the Creative Commons Zero License. 🆓
 - [Soundraw](https://soundraw.io/) - Subscription based AI music generator
 - [Stochas Surge Synth](https://stochas.org/) <!-- This the github site https://github.com/surge-synthesizer/stochas --> - Open-source advanced probabilistic polyrhythmic sequencer plugin. A cross-platform generative music VST.  🆓
-- [AlgoTunes](https://www.algotunes.com/generate-music/)
+- [AlgoTunes](https://www.algotunes.com/generate-music/) - AI powered music generator
 - [Aural Fractals](https://www.auralfractals.net/)
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
 - [AlgorhythmRadio](https://algorythmradio.com/)
