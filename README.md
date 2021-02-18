@@ -66,7 +66,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
 - [AlgorhythmRadio](https://algorythmradio.com/) - random music generator app. It composes and performs a near endless and unbroken stream of new and original music, tailored to the listener's needs through the selection of one or more genres. It is currently in development, and is not yet available to the public.
 - [Code FN42 Transition](https://www.codefn42.com/transition/index.html) - generative MIDI sequencer
-- [Generative FM](https://generative.fm/)
+- [Generative FM](https://generative.fm/) - An online subcription based ambient music generator that never ends or repeats
 - [Obscurium](https://sugar-bytes.de/obscurium)
 - [Notefull](https://trixelized.itch.io/noteful)
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox)
