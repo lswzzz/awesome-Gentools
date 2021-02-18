@@ -64,7 +64,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [AlgoTunes](https://www.algotunes.com/generate-music/) - AI powered music generator
 - [Aural Fractals](https://www.auralfractals.net/) - Aural is a Fractal Music generator that creates endless musical themes from Chaos/fractals (Windows only).
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
-- [AlgorhythmRadio](https://algorythmradio.com/)
+- [AlgorhythmRadio](https://algorythmradio.com/) - random music generator app. It composes and performs a near endless and unbroken stream of new and original music, tailored to the listener's needs through the selection of one or more genres. It is currently in development, and is not yet available to the public.
 - [Code FN42 Transition](https://www.codefn42.com/transition/index.html)
 - [Generative FM](https://generative.fm/)
 - [Obscurium](https://sugar-bytes.de/obscurium)
