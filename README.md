@@ -62,7 +62,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Soundraw](https://soundraw.io/) - Subscription based AI music generator
 - [Stochas Surge Synth](https://stochas.org/) <!-- This the github site https://github.com/surge-synthesizer/stochas --> - Open-source advanced probabilistic polyrhythmic sequencer plugin. A cross-platform generative music VST.  🆓
 - [AlgoTunes](https://www.algotunes.com/generate-music/) - AI powered music generator
-- [Aural Fractals](https://www.auralfractals.net/)
+- [Aural Fractals](https://www.auralfractals.net/) - Aural is a Fractal Music generator that creates endless musical themes from Chaos/fractals (Windows only).
 - [Clara](https://github.com/mcleavey/musical-neural-net) -  A neural network music generator.
 - [AlgorhythmRadio](https://algorythmradio.com/)
 - [Code FN42 Transition](https://www.codefn42.com/transition/index.html)
