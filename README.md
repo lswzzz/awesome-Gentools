@@ -95,7 +95,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Cool Generator](https://www.coolgenerator.com/) - A collection 0f 100+ name generators and other.
 
 ### Idea_Generators
-- [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/)
+- [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/) - Free style poem generator
 
 ### Face_Generators
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓 - An AI powered face generator. AI was trained to create fake people, using a database of 70,000 of 
