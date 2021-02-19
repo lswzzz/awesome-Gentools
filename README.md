@@ -84,7 +84,7 @@ educators, beginners, and anyone else!
 - [AIBM](https://wiskered.itch.io/ai-building-modeling) - AIBM (AI Building Modeling)  - is artificial intelligence (AI), which is able to generate building models according to specified parameters, at this stage - based on a parallelepiped. It is also possible to design the interior of the building. AIBM is portable and works without installation. The procedural generation of AIBM is highly optimized. As a result, the consumption of computational resources is reduced and the 
 speed of model building is greatly increased.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
-- [DeepDream Generator](https://deepdreamgenerator.com/)
+- [DeepDream Generator](https://deepdreamgenerator.com/) - a deep neural network algorthmic art generator that creates psychedelic and abstract art
 - [StarScapes](https://deep-fold.itch.io/starscapes)
 
 ### Miscellaneous_Generators
