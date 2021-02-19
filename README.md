@@ -68,7 +68,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Code FN42 Transition](https://www.codefn42.com/transition/index.html) - generative MIDI sequencer
 - [Generative FM](https://generative.fm/) - An online subcription based ambient music generator that never ends or repeats
 - [Obscurium](https://sugar-bytes.de/obscurium) - A generative synthesizer VST for Windows and MacOS. 
-- [Notefull](https://trixelized.itch.io/noteful)
+- [Notefull](https://trixelized.itch.io/noteful) - An asset dependent music generator for windows.
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
 
 ### Art_Generators
