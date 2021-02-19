@@ -110,7 +110,7 @@ photos of real humans.
 - [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU) - Its all just waves
 - [I Am AI](https://www.youtube.com/watch?v=Emidxpkyk6o) - A soundtrack composed by Artificial Intelligence Virtual Artist (AIVA)
 - [Introduction to Music Sequencers](https://www.youtube.com/watch?v=aXTT8jUhoAg)
-
+- [Creating Generative Rhythms with VCV Rack](https://www.youtube.com/watch?v=B5YqbORQp00)
 ### Articles
 
 ## Contribute
