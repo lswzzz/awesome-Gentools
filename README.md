@@ -69,7 +69,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Generative FM](https://generative.fm/) - An online subcription based ambient music generator that never ends or repeats
 - [Obscurium](https://sugar-bytes.de/obscurium) - A generative synthesizer VST for Windows and MacOS. 
 - [Notefull](https://trixelized.itch.io/noteful)
-- [Creaksbox](https://hidden-orchestra.itch.io/creaksbox)
+- [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
 
 ### Art_Generators
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
