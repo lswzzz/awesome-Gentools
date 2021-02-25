@@ -142,3 +142,12 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
  
 </details>
 
+<!--
+
+Book Reviews (Manga, Manhua, Manhwa, and Ebooks)
+
+Essays
+- Afropolitan Migration (why are black people moving to asia >> Bye bye plutonomy, welcome freedom)
+- 
+
+-->
