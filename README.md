@@ -110,6 +110,7 @@ photos of real humans.
 ### Unsorted
 - [Deepfakes App](https://deepfakesapp.online/)
 - [Deepfake maker](https://deepfakesweb.com/)
+- [Lyrebird descript](https://www.descript.com/overdub?lyrebird=true) 
 
 ### Videos
 - [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU) - Its all just waves
