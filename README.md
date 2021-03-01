@@ -10,6 +10,7 @@
 * [Title_Generators](#title_generators)
 * [Idea_Generators](#idea_generators)
 * [Face_Generators](#face_generators)
+* [Unsorted](#unsorted)
 
 ## Resources
 * [Videos](#videos)
@@ -105,6 +106,10 @@ photos of real humans.
 -
 -
 -
+
+### Unsorted
+- [Deepfakes App](https://deepfakesapp.online/)
+- [Deepfake maker](https://deepfakesweb.com/)
 
 ### Videos
 - [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU) - Its all just waves
