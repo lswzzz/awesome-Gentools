@@ -87,6 +87,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Filter JS](https://comigo.itch.io/filterjs) - FilterJS allows you to procedurally generate textures and images. It is mainly inspired by FilterForge and Unreal Engine's material editor, and is a proof-of-concept of what can be created with the modern web technologies.
 - [DeepDream Generator](https://deepdreamgenerator.com/) - a deep neural network algorthmic art generator that creates psychedelic and abstract art
 - [StarScapes](https://deep-fold.itch.io/starscapes) - Waterpaint style mountain view art generator
+- [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
 
 ### Miscellaneous_Generators
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
