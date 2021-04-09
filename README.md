@@ -88,6 +88,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [DeepDream Generator](https://deepdreamgenerator.com/) - a deep neural network algorthmic art generator that creates psychedelic and abstract art
 - [StarScapes](https://deep-fold.itch.io/starscapes) - Waterpaint style mountain view art generator
 - [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
+- [City Generator](https://probabletrain.itch.io/city-generator)
 
 ### Miscellaneous_Generators
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
