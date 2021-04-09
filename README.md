@@ -89,6 +89,8 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [StarScapes](https://deep-fold.itch.io/starscapes) - Waterpaint style mountain view art generator
 - [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
 - [City Generator](https://probabletrain.itch.io/city-generator)
+- [Village Generator](https://watabou.itch.io/village-generator)
+- 
 
 ### Miscellaneous_Generators
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
