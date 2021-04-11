@@ -21,7 +21,7 @@
 
 ### Music_Generators
 
-![](https://i.gifer.com/7d20.gif)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5a3db7-fb07-4532-aa4c-93f5a5d5d651/d8nrvkr-08020d7d-e1b2-4c1b-943a-2ce498072d8f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83YTVhM2RiNy1mYjA3LTQ1MzItYWE0Yy05M2Y1YTVkNWQ2NTEvZDhucnZrci0wODAyMGQ3ZC1lMWIyLTRjMWItOTQzYS0yY2U0OTgwNzJkOGYuZ2lmIn1dXX0.uppBzfFe-8U0o-NZ6oYEkBY4K6Wq-fa1GnRFJOwPIBk)
 
 - [Computoser](http://computoser.com/) -Computoser uses AI algorithms to generate music. Each generated track is a unique combination of tones, rhythm and instruments. All the tracks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 🆓
 - [Fake Music Generator](https://www.fakemusicgenerator.com/) - The Fake Music Generator is a free tool created by [Corban Works LLC](https://www.corbanworks.com/), the makers of the Fake Name Generator and the Fake Mail Generator. It provides free computer generated music, artist names, album and track titles, and album art. The magic behind it all is [cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/). All the generations are licensed under the Creative Commons Zero License. 🆓
