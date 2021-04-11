@@ -13,6 +13,9 @@
 * [Unsorted](#unsorted)
 
 ## Resources
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*YCDChDgkpiBFuOUNLLiUlw.gif&f=1&nofb=1)
+
 * [Videos](#videos)
 * [Articles](#articles)
 
