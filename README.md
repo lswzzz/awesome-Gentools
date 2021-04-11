@@ -108,6 +108,9 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
 
 ### Title_Generators
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdata.whicdn.com%2Fimages%2F287722949%2Foriginal.gif&f=1&nofb=1)
+
 - [Namelix](https://namelix.com/) - A business name generator
 - [Cool Generator](https://www.coolgenerator.com/) - A collection 0f 100+ name generators and other.
 
@@ -115,6 +118,9 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/) - Free style poem generator
 
 ### Face_Generators
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.boingboing.net%2Fwp-content%2Fuploads%2F2015%2F07%2Ftumblr_noa6mdd3yb1qze3hdo1_500.gif&f=1&nofb=1)
+
 - [Bored Humans](https://boredhumans.com/faces.php) 🆓 - An AI powered face generator. AI was trained to create fake people, using a database of 70,000 of 
 photos of real humans. 
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) 🆓 - An AI powered face generator that uitlizes the power of Generative Adversarial Networks.
@@ -124,17 +130,26 @@ photos of real humans.
 -
 
 ### Unsorted
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F68%2F0b%2Fac%2F680bacfdfe62512d787d82ccb9cefc04.gif&f=1&nofb=1)
+
 - [Deepfakes App](https://deepfakesapp.online/)
 - [Deepfake maker](https://deepfakesweb.com/)
 - [Lyrebird descript](https://www.descript.com/overdub?lyrebird=true) 
 - [This X Does Not Exist](https://thisxdoesnotexist.com/)
 
 ### Videos
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnextshark.com%2Fwp-content%2Fuploads%2F2018%2F01%2F002.gif&f=1&nofb=1)
+
 - [Modular Synthesis Explained](https://www.youtube.com/watch?v=cWslSTTkiFU) - Its all just waves
 - [I Am AI](https://www.youtube.com/watch?v=Emidxpkyk6o) - A soundtrack composed by Artificial Intelligence Virtual Artist (AIVA)
 - [Introduction to Music Sequencers](https://www.youtube.com/watch?v=aXTT8jUhoAg)
 - [Creating Generative Rhythms with VCV Rack](https://www.youtube.com/watch?v=B5YqbORQp00)
+- 
 ### Articles
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6690%2Fd59f2cbe6af411c0bdd4780271d263ca24dca2a8_hq.gif&f=1&nofb=1)
 
 ## Contribute
 
