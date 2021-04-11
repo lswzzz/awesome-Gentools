@@ -76,6 +76,9 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
 
 ### Art_Generators
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2F97%2Fe72697f0e27e9ffe53089c1ade7593ee.gif&f=1&nofb=1)
+
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app. It uses a technique called neural style transfer to re-imagine your images in any style you choose. They also have simple editing tools - not offered by other AI art generators or style-transfer apps - to help you turn your photos into masterpieces. All the creations you make are licensed under the Creative Commons Zero License, with the assumption that you hold the necessary rights to the images you use. 
 - [Geo Pattern](https://btmills.github.io/geopattern/geopattern.html) - An SVG pattern generator. 🆓
