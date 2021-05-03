@@ -77,6 +77,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Obscurium](https://sugar-bytes.de/obscurium) - A generative synthesizer VST for Windows and MacOS. 
 - [Notefull](https://trixelized.itch.io/noteful) - An asset dependent music generator for windows.
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
+- [Prog](https://sarrowsmith.itch.io/prog)
 
 ### Art_Generators
 
@@ -113,6 +114,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 
 - [Namelix](https://namelix.com/) - A business name generator
 - [Cool Generator](https://www.coolgenerator.com/) - A collection 0f 100+ name generators and other.
+- [ManyNames](https://aldercone.itch.io/manynames) - A name generator 
 
 ### Idea_Generators
 - [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/) - Free style poem generator
