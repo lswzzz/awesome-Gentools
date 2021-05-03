@@ -183,6 +183,17 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
  
 </details>
 
+<details><summary>🧠 Q&A</summary>
+ 
+ ![](https://i.redd.it/1ctpb8dor8w61.png)
+ 
+ 1. **Why did you create this repository?**
+ - I couldn't contain my fascination with awesome lists on Github. I knew i had to contribute or create my own awesome list
+
+2. **Why is your awesome list using a different name?**
+- I wanted something sounded cooler. I know that i could have used something like Awesome generative tools, Awesome Procgen, Awesome procedural generation, awesome Procgen tools or awesome gen-tools, but all of them sound boring to me. Thats why i came up with Interplanetary Destinesia. Interplanetary because of IPFS and destinesia because the word is symbolic. Destinesia can best me summed as going somewhere only to forget why you were going there. That is symbolic with generative tools because you dont know what the tool will come up with. 
+ 
+ </details>
 <!--
 
 Book Reviews (Manga, Manhua, Manhwa, and Ebooks)
