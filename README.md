@@ -139,6 +139,7 @@ photos of real humans.
 - [Deepfake maker](https://deepfakesweb.com/)
 - [Lyrebird descript](https://www.descript.com/overdub?lyrebird=true) 
 - [This X Does Not Exist](https://thisxdoesnotexist.com/)
+- [NoisiBoi](https://fossegutten.itch.io/noisiboi)
 
 ### Videos
 
