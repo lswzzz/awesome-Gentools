@@ -218,7 +218,10 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 - Music is mathematical, so its only natural that musical computation is possible, whereas art is not. When it comes to creativity that definitely requires some of rocket science jargon known as deep learning/machine learning. Art generators at the moment are limited to predefines mathematical geometry from isometric grids, fractal art and the wavy randomness. Simply put that with 3D the possibilities are currently greater than that of 2D. To answer this question it entirely depends on what exactly it is that you are looking for. 
 
 11. **What exactly is the point of listing the so called human face generators?**
-- Face generators are just straight up weird, but weirdly enough they do have some practical use cases. One could use them to secure their digital identity. I think it makes more sense for a game developer to use it in their project. They could easily pixelize them to create a pixel art game or as an NPC for 3D game. While not hyperrealistic, the element of fantasy is present without the need of being too conceptual. 
+- Face generators are just straight up weird, but weirdly enough they do have some practical use cases. One could use them to secure their digital identity. I think it makes more sense for a game developer to use it in their project. They could easily pixelize them to create a pixel art game or as an NPC for 3D game. While not hyperrealistic, the element of fantasy is present without the need of being too conceptual. Or simply for some deep fake content
+
+12. **Is Lyrebirds descript functional as they say it is?**
+- I havent bothered testing it myself, but the videos seem convincing. Donating ones  voice for the enhancement of natural language processing....
 
 
  </details>
