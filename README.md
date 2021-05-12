@@ -223,6 +223,44 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 12. **Is Lyrebirds descript functional as they say it is?**
 - I havent bothered testing it myself, but the videos seem convincing. Donating ones  voice for the enhancement of natural language processing....
 
+13. **What got you interested in procedural generation?**
+-
+
+14. **Do you believe procedural generation is the future of content generation?**
+1-
+
+15. **Which group of people reap the most benefits as a result of procedural generation?**
+-
+
+16. **Why is Abundant music the most unique music generator?**
+-
+
+17. **What are some of the challenges surrounding the adoption of procedural generation?**
+-
+
+18. **Should an art generator use WebGL?**
+-
+
+19. **Why do most art generator simply behave like photo effect applications?**
+-
+
+20. **What are the limitations of the Geo Pattern art generator?**
+
+21. **Should a procedural generator require internet usage?**
+-
+
+22. **What classifies a tool as a procedural generator?**
+-
+
+23. **Which defintion of procedural generation is the most recognized?**
+-
+
+24. **What is procedural generation in your own words?**
+-
+
+25. **How would you describe procedural generation to a child?**
+-
+
 
  </details>
 <!--
