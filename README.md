@@ -245,6 +245,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 -
 
 20. **What are the limitations of the Geo Pattern art generator?**
+-
 
 21. **Should a procedural generator require internet usage?**
 -
