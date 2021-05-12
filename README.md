@@ -193,6 +193,19 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 2. **Why is your awesome list using a different name?**
 - I wanted something sounded cooler. I know that i could have used something like Awesome generative tools, Awesome Procgen, Awesome procedural generation, awesome Procgen tools or awesome gen-tools, but all of them sound boring to me. Thats why i came up with Interplanetary Destinesia. Interplanetary because of IPFS and destinesia because the word is symbolic. Destinesia can best me summed as going somewhere only to forget why you were going there. That is symbolic with generative tools because you dont know what the tool will come up with. 
  
+ 3. **Are music generators that good?**
+ - Yes, they really are. I couldnt believe myself, until i started playing around with them using LMMS and Soundtrap. Now i use Reaper and the time saved creating tracks is superb. 
+
+4. **Whats a good indicator that a music generator is worthwhile?**
+- The only way to tell if a music generator is worthwhile is when you see yourself using the physical midi keyboard or manually inputing notes into the piano roll. When you eliminiate the need to press keys or move your mouse you have reached procedurally generated enlightenment
+
+5. **Out of all the music generator you listed which one would you say is the best?**
+- I despise ranking, but AIVA would be have to be number one. Its even much better when you realize that the 3 free tracks per month for the free plan can be hacked by using multiple fake emails. If you have 10 emails thats 30 tracks right off the bat.
+
+6. **Which music generator do you think ranks the lowest?**
+- Out of all the ones that i have tested, Fake music generator ranks the lowest. Most of the composition sounds similar and have little to no variation. It excels at creating jazzy composition, but if they all sounds the same it stinks. Too much ragtime jazz can rag up your time
+
+7.
  </details>
 <!--
 
