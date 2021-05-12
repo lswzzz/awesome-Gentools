@@ -205,7 +205,22 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 6. **Which music generator do you think ranks the lowest?**
 - Out of all the ones that i have tested, Fake music generator ranks the lowest. Most of the composition sounds similar and have little to no variation. It excels at creating jazzy composition, but if they all sounds the same it stinks. Too much ragtime jazz can rag up your time
 
-7.
+7. **Which music generator can actually create infinite composition?**
+- Wolfram Tone Generator is the winner when it comes to this category because it can virtually create compositions of any genre. However each composition is limited to a maximux of 30 second and nothing more. Which is still awesome. If you are true music nerd or someone with musical literacy then Wolfram Tone Generator feels right at home
+
+8. **Why do some people hate music generators?**
+- Because they dont know any better, they dont believe in outsorcing the process. They would rather beat their brain into submission to produce music. When a person creates a song and it just so happens to go viral. Chances of creating even greater tracks should be linear, but thats the limitation of humanity that muusic generators overcome. To sum it up because they are offended by the angelic tunes that a music generator can concoct while they are stuck with music block
+
+9. **Are any of these music generator a match for the ultimate procedural generation known as modular synthesis?**
+- Modular synthesis is number one no doubt about that, i mean its the first instance of procedural generation in music to begin with. Music generators dont create new sounds, they simply create melodies. Modular synthesis can create new sounds and new melodies simulateneously, but our human ears can only harness that pleasure in small increments before the deafening effects slowly wane in. 
+
+10. **Are art generators any good?**
+- Music is mathematical, so its only natural that musical computation is possible, whereas art is not. When it comes to creativity that definitely requires some of rocket science jargon known as deep learning/machine learning. Art generators at the moment are limited to predefines mathematical geometry from isometric grids, fractal art and the wavy randomness. Simply put that with 3D the possibilities are currently greater than that of 2D. To answer this question it entirely depends on what exactly it is that you are looking for. 
+
+11. **What exactly is the point of listing the so called human face generators?**
+- Face generators are just straight up weird, but weirdly enough they do have some practical use cases. One could use them to secure their digital identity. I think it makes more sense for a game developer to use it in their project. They could easily pixelize them to create a pixel art game or as an NPC for 3D game. While not hyperrealistic, the element of fantasy is present without the need of being too conceptual. 
+
+
  </details>
 <!--
 
