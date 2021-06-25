@@ -10,6 +10,7 @@
 * [Title_Generators](#title_generators)
 * [Idea_Generators](#idea_generators)
 * [Face_Generators](#face_generators)
+* [Email_Generators](#email_generators) <!-- email-fake.com , temp-mail.org, fakemail.net, emailfake.com , fakemailgenerator.com -->
 * [Unsorted](#unsorted)
 
 ## Resources
