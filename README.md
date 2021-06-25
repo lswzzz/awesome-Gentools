@@ -11,6 +11,7 @@
 * [Idea_Generators](#idea_generators)
 * [Face_Generators](#face_generators)
 * [Email_Generators](#email_generators) <!-- email-fake.com , temp-mail.org, fakemail.net, emailfake.com , fakemailgenerator.com -->
+* [Phone_Number_Generators](#phone_number_generators)
 * [Unsorted](#unsorted)
 
 ## Resources
