@@ -85,6 +85,8 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Neural Composer](https://github.com/HackerPoet/Composer)
 - [Blossom](https://github.com/generative-music/blossom)
 - [Molecular Music Generator](https://github.com/igorski/molecular-music-generator/tree/0.9)
+- [ZzFXM](https://github.com/keithclark/ZzFXM)
+- [Genmusic](https://gee842.github.io/genmusic/dev/)
 
 ### Art_Generators
 
@@ -107,7 +109,6 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
 - [City Generator](https://probabletrain.itch.io/city-generator)
 - [Village Generator](https://watabou.itch.io/village-generator)
-- [Genmusic](https://gee842.github.io/genmusic/dev/)
 - 
 
 ### Miscellaneous_Generators
