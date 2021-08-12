@@ -80,6 +80,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Notefull](https://trixelized.itch.io/noteful) - An asset dependent music generator for windows.
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
 - [Prog](https://sarrowsmith.itch.io/prog)
+- [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator)
 
 ### Art_Generators
 
