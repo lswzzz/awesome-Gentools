@@ -81,6 +81,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Creaksbox](https://hidden-orchestra.itch.io/creaksbox) - An adaptive soundtrack playback experiment
 - [Prog](https://sarrowsmith.itch.io/prog)
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator)
+- [Tensorflow Music Generator](https://github.com/burliEnterprises/tensorflow-music-generator)
 
 ### Art_Generators
 
