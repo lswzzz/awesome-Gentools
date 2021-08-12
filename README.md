@@ -104,6 +104,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
 - [City Generator](https://probabletrain.itch.io/city-generator)
 - [Village Generator](https://watabou.itch.io/village-generator)
+- [Neural Composer](https://github.com/HackerPoet/Composer)
 - 
 
 ### Miscellaneous_Generators
