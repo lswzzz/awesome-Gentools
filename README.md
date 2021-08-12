@@ -83,6 +83,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator)
 - [Tensorflow Music Generator](https://github.com/burliEnterprises/tensorflow-music-generator)
 - [Neural Composer](https://github.com/HackerPoet/Composer)
+- [Blossom](https://github.com/generative-music/blossom)
 
 ### Art_Generators
 
