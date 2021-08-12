@@ -82,6 +82,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Prog](https://sarrowsmith.itch.io/prog)
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator)
 - [Tensorflow Music Generator](https://github.com/burliEnterprises/tensorflow-music-generator)
+- [Neural Composer](https://github.com/HackerPoet/Composer)
 
 ### Art_Generators
 
@@ -104,7 +105,6 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [OoBaCuLi Fibrous Being](https://eryngi.itch.io/oobaculi) -
 - [City Generator](https://probabletrain.itch.io/city-generator)
 - [Village Generator](https://watabou.itch.io/village-generator)
-- [Neural Composer](https://github.com/HackerPoet/Composer)
 - 
 
 ### Miscellaneous_Generators
