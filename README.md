@@ -88,6 +88,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Molecular Music Generator](https://github.com/igorski/molecular-music-generator/tree/0.9)
 - [ZzFXM](https://github.com/keithclark/ZzFXM)
 - [Genmusic](https://gee842.github.io/genmusic/dev/)
+- [Generative FM](https://github.com/generative-fm/play) - Ambient music generator that never ends or repeats created by [Alex Bainter](https://alexbainter.com)
 
 ### Art_Generators
 
