@@ -90,6 +90,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Genmusic](https://gee842.github.io/genmusic/dev/)
 - [Generative FM](https://github.com/generative-fm/play) - Ambient music generator that never ends or repeats created by [Alex Bainter](https://alexbainter.com)
 - [Strofe](https://www.strofe.com)
+- [Midinous](https://store.steampowered.com/app/1727420/Midinous/)
 
 ### Art_Generators
 
