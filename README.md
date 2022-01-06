@@ -115,6 +115,9 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [City Generator](https://probabletrain.itch.io/city-generator)
 - [Village Generator](https://watabou.itch.io/village-generator)
 - [Shan Shui](https://github.com/LingDong-/shan-shui-inf)
+- Gaugan 2
+- Nvidia Canvas
+
 
 
 ### Miscellaneous_Generators
