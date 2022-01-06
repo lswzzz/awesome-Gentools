@@ -1,6 +1,6 @@
 # Interplanetary_Destinesia ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/33nano/awesome-Gentools/pulls)
 <!-- If you have a difficult task give it to a lazy man — he will find an easier way to do it.(paraphrase, Clarence Beicher) -->
->A curated list of Awesome procedural generation tools for art,music, titles, ideas and more. The purpose of generative tools is to aid humans in creating things faster, efficiently and promote productive laziness. These tools are especially helpful for game developers, indie or small team.If you love something, automate it and you never have to work a day in your life.
+>A curated list of Awesome procedural generation tools for art,music, titles, ideas and more. The purpose of generative tools is to promote peak efficiency. These tools are especially helpful for game developers, indie or small team.If you love something, automate it and you never have to work a day in your life.
 <!-- The arguemnt of quantity vs quality could be made about generative tools, but i digress because i believe to compete with other human beings a greater force must be used. Whether this force be simple scripts, algorithms, artificial intelligence or quantum computers. -->
 ## Table of Contents
 
