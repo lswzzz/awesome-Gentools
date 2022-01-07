@@ -92,6 +92,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Strofe](https://www.strofe.com)
 - [Imitone](https://imitone.com/)
 - [Midinous](https://store.steampowered.com/app/1727420/Midinous/)
+- Sonic Pi
 
 ### Art_Generators
 
