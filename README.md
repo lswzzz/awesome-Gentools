@@ -170,6 +170,7 @@ photos of real humans.
 - Minecraft
 - Stardew Valley
 - Terraria
+- [Veloren](https://veloren.net)
 
 ### Unsorted
 
@@ -180,6 +181,7 @@ photos of real humans.
 - [Lyrebird descript](https://www.descript.com/overdub?lyrebird=true) 
 - [This X Does Not Exist](https://thisxdoesnotexist.com/)
 - [NoisiBoi](https://fossegutten.itch.io/noisiboi)
+- [Godot Procedural Generation](https://github.com/GDQuest/godot-procedural-generation)
 
 ### Videos
 
@@ -194,6 +196,8 @@ photos of real humans.
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpa1.narvii.com%2F6690%2Fd59f2cbe6af411c0bdd4780271d263ca24dca2a8_hq.gif&f=1&nofb=1)
 
+- [An Introduction to Procedural Animations](https://www.alanzucconi.com/2017/04/17/procedural-animations/)
+- 
 ## Contribute
 
 Contributions welcome and wanted! Read the [contribution guidelines](https://github.com/33nano/awesome-Gentools/blob/master/CONTRIBUTING.md) first.
