@@ -124,7 +124,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Shan Shui](https://github.com/LingDong-/shan-shui-inf)
 - Gaugan 2
 - Nvidia Canvas
-
+- [BY-GEN](https://blendermarket.com/products/by-gen)
 
 
 ### Miscellaneous_Generators
