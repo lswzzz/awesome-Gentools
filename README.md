@@ -162,6 +162,9 @@ photos of real humans.
 
 - [No Mans Sky](https://www.nomanssky.com) - Video Game
 - [Julius Horsthuis](https://www.julius-horsthuis.com/) - Fractal Animations
+- Minecraft
+- Stardew Valley
+- Terraria
 
 ### Unsorted
 
