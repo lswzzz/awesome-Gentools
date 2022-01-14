@@ -92,7 +92,9 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Strofe](https://www.strofe.com)
 - [Imitone](https://imitone.com/)
 - [Midinous](https://store.steampowered.com/app/1727420/Midinous/)
-- Sonic Pi
+- [Sonic Pi](https://sonic-pi.net/)
+- [Muzoti](https://www.muzoti.com/)
+
 
 ### Art_Generators
 
@@ -209,7 +211,6 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 
 <details><summary>🧠 Q&A</summary>
  
- ![](https://i.redd.it/1ctpb8dor8w61.png)
  
  1. **Why did you create this repository?**
  - I couldn't contain my fascination with awesome lists on Github. I knew i had to contribute or create my own awesome list
