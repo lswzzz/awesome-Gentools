@@ -100,6 +100,8 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 
 ### Art_Generators
 
+[18]
+
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2F97%2Fe72697f0e27e9ffe53089c1ade7593ee.gif&f=1&nofb=1)
 
 - [Open Processing](https://www.openprocessing.org/) - A community for creative coders to share, create and explore works made using the Processing programming language.  ![icon](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/img/money.svg)
@@ -143,6 +145,8 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [POQ Poem Generator](https://www.poemofquotes.com/tools/poetry-generator/) - Free style poem generator
 
 ### Face_Generators
+
+[4]
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.boingboing.net%2Fwp-content%2Fuploads%2F2015%2F07%2Ftumblr_noa6mdd3yb1qze3hdo1_500.gif&f=1&nofb=1)
 
