@@ -130,6 +130,13 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [Fish Draw](https://github.com/LingDong-/fishdraw)
 - [Material Maker](https://rodzilla.itch.io/material-maker)
+- [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
+- [Armoria](https://github.com/Azgaar/Armoria)
+- [Texture Lab](https://njbrown.itch.io/texturelab)
+- [Tree Gen](https://github.com/friggog/tree-gen)
+- [Mixture](https://github.com/alelievr/Mixture)
+- [Essential Establishment Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator)
+- 
 
 
 ### Miscellaneous_Generators
