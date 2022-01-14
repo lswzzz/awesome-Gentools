@@ -153,7 +153,7 @@ photos of real humans.
 ### PCG_Content
 
 - [No Mans Sky](https://www.nomanssky.com) 
-- [Julius Horsthuis](https://youtube.com/channel/UCPYiwZRSN8w5ZodY4MvflJQ) Fractal Animations
+- [Julius Horsthuis](https://www.julius-horsthuis.com/) Fractal Animations
 
 ### Unsorted
 
