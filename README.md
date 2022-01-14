@@ -100,7 +100,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 
 ### Art_Generators
 
-[21]
+[22]
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2F97%2Fe72697f0e27e9ffe53089c1ade7593ee.gif&f=1&nofb=1)
 
@@ -127,6 +127,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [BY-GEN](https://blendermarket.com/products/by-gen)
 - [Neural Patterns](https://neuralpatterns.io)
 - [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator)
+- [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 
 ### Miscellaneous_Generators
 
