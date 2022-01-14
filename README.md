@@ -92,8 +92,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Strofe](https://www.strofe.com)
 - [Imitone](https://imitone.com/)
 - [Midinous](https://store.steampowered.com/app/1727420/Midinous/)
-- [Sonic Pi](https://sonic-pi.net/)
-- [Muzoti](https://www.muzoti.com/)
+- Sonic Pi
 
 ### Art_Generators
 
@@ -154,7 +153,7 @@ photos of real humans.
 ### PCG_Content
 
 - [No Mans Sky](https://www.nomanssky.com) 
-- 
+- [Julius Horsthuis](https://youtube.com/channel/UCPYiwZRSN8w5ZodY4MvflJQ) Fractal Animations
 
 ### Unsorted
 
