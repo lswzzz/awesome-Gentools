@@ -160,8 +160,8 @@ photos of real humans.
 
 ### PCG_Content
 
-- [No Mans Sky](https://www.nomanssky.com) 
-- [Julius Horsthuis](https://www.julius-horsthuis.com/) Fractal Animations
+- [No Mans Sky](https://www.nomanssky.com) - Video Game
+- [Julius Horsthuis](https://www.julius-horsthuis.com/) - Fractal Animations
 
 ### Unsorted
 
