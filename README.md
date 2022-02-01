@@ -96,7 +96,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Midinous](https://store.steampowered.com/app/1727420/Midinous/)
 - [Sonic Pi](https://sonic-pi.net/)
 - [Muzoti](https://www.muzoti.com/)
-
+- [Mubert](https://mubert.com/render/playlists/product-hunt)
 
 ### Art_Generators
 
