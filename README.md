@@ -4,6 +4,15 @@
 <!-- The arguemnt of quantity vs quality could be made about generative tools, but i digress because i believe to compete with other human beings a greater force must be used. Whether this force be simple scripts, algorithms, artificial intelligence or quantum computers. -->
 ## Table of Contents
 
+🗝️ Key 
+- 🍏 Apple
+- 🪟 Windows
+- 🌐 Web
+- 🐧 Linux
+- 🆓 Free
+- 🔤  Title Gen
+
+
 * [Music_Generators](#music_generators)
 * [Art_Generators](#art_generators)
 * [Miscellaneous_Generators](#miscellaneous_generators)
