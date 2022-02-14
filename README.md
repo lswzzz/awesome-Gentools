@@ -5,12 +5,7 @@
 ## Table of Contents
 
 🗝️ Key 
-- 🍏 Apple
-- 🪟 Windows
-- 🌐 Web
-- 🐧 Linux
-- 🆓 Free
-- 🔤  Title Gen
+- 🍏 Apple | 🪟 Windows  | 🌐 Web  | 🐧 Linux  |  🆓 Free  | 🔤  Title Gen
 
 
 * [Music_Generators](#music_generators)
