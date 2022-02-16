@@ -101,6 +101,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Sonic Pi](https://sonic-pi.net/)
 - [Muzoti](https://www.muzoti.com/)
 - [Mubert](https://mubert.com/render/playlists/product-hunt)
+- [Dopeloop](https://dopeloop.ai)
 
 ### Art_Generators
 
