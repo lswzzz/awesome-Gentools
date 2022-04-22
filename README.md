@@ -103,6 +103,7 @@ creating melodies, chord progressions and sequences(Perpetual License).![icon](h
 - [Mubert](https://mubert.com/render/playlists/product-hunt)
 - [Dopeloop](https://dopeloop.ai)
 - [Bandlab Songstarter](https://www.bandlab.com/songstarter)
+- [Looperman](https://www.looperman.com/) 
 
 ### Art_Generators
 
