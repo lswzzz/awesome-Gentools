@@ -145,6 +145,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [Essential Establishment Generator](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator)
 - [GoblInfinite](https://chimpceo.itch.io/goblinfinite-app)
 - Procgen Mansion
+- MetaHuman
 
 
 ### Miscellaneous_Generators
