@@ -146,6 +146,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 - [GoblInfinite](https://chimpceo.itch.io/goblinfinite-app)
 - Procgen Mansion
 - MetaHuman
+- [Plantarium](https://github.com/jim-fx/plantarium)
 
 
 ### Miscellaneous_Generators
