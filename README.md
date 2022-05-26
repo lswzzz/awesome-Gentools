@@ -154,6 +154,7 @@ speed of model building is greatly increased.  ![icon](https://github.com/luong-
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2Fdc%2Fb2%2Ffadcb24075acb650de29f258af69d830.gif&f=1&nofb=1)
 
 - [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Self explanatory as the name implies.  🆓
+- [Game Idea Generator](https://monochroma380.itch.io/game-idea-generator)
 
 ### Title_Generators
 
