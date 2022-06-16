@@ -222,7 +222,7 @@ Contributions welcome and wanted! Read the [contribution guidelines](https://git
 
 ## Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=BrandonKMLee/Interplanetary_Destinesia)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=33nano/Interplanetary_Destinesia)
 
 ## License
 
